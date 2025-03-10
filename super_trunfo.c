@@ -70,3 +70,4 @@ printf("==============================\n\n");
 printf("Carta 2:\nEstado: %c\nCódigo: %s\nNome da cidade: %s\nPopulação: %d\nÁrea: %.3f\nPIB: %.3f\nNúmero de pontos turísticos: %d\n\n", estado2, codigocarta2, cidade2, populacao2, area2, pib2, pontosturisticos2);
 
 return 0;
+}
